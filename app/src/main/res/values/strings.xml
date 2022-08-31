@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Topic3</string>
+    <string name="berat_badan">Berat Badan</string>
+    <string name="hasil">Hasil</string>
+    <string name="reset">Reset</string>
+    <string name="hitung" />
+</resources>
